@@ -17,7 +17,7 @@ function sayHii(){
 const router = express.Router()
 
 // city routes
-router.post('/city',sayHii) 
+router.post('/city',sayHello,sayHii) 
 router.delete('/city/:id',sayHello)
 router.get('/city/:id',printHi)
 router.get('/city',sayHello)
@@ -25,7 +25,7 @@ router.patch('/city/:id',printHi)
 router.post('/multiple',sayHello)
 
 // airport routes
-router.post('/airport',printHi)
+router.get('/airport',printHi)
 router.get('/airport/:id',sayHello)
 
 
