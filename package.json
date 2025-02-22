@@ -1,14 +1,21 @@
 {
   "name": "node-route-lister",
-  "version": "1.4.0",
+  "version": "1.7.0",
   "description": "A library for printing all the routes, methods and middlewares of a route files.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "list-route": "./index.js"
+    "node-lister": "./index.js"
   },
+  "keywords": [
+    "express",
+    "route",
+    "endpoint",
+    "list",
+    "cli"
+  ],
   "author": "sarang joshi",
   "license": "ISC",
   "dependencies": {
@@ -18,8 +25,9 @@
     "express-router-dependency-graph": "^1.1.1",
     "fs": "^0.0.1-security",
     "lodash": "^4.17.21",
+    "madge": "^8.0.0",
     "path": "^0.12.7",
     "tty-table": "^4.2.3",
-    "yargs": "^17.7.2"
+    "yargs": "^17.1.1-candidate.0"
   }
 }
