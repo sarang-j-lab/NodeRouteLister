@@ -1,6 +1,6 @@
 {
   "name": "node-route-lister",
-  "version": "1.9.0",
+  "version": "1.9.2",
   "description": "A library for printing all the routes, methods and middlewares of a route files.",
   "main": "index.js",
   "scripts": {

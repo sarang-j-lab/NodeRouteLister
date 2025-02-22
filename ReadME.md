@@ -12,5 +12,6 @@ Options:
   -p, --path        filter endpoints by path                            [string]
   -m, --method      filter endpoints by method                          [string]
   -w, --middleware  filter endpoints by middleware                      [string]
+  -r, --routing files show all routing files                            
       --help        Show help                                          [boolean]
 ```
