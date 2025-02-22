@@ -1,8 +1,8 @@
 # NodeRouteLister
 
-### npx list-route --help
+### npx node-lister --help
 
-### npx list-route relativeAppFilePath
+### npx node-lister <relative App File Path>
 
 ## Usage
 

@@ -102,6 +102,8 @@ const showEndPoints = (relativeFilePath,  argv) => {
     const RouteFile = require(appPath);
 
     let endPoints = expressListEndpoints(RouteFile);
+    
+
 
     // if any filter condition given that will filtered here.
     if (path) endPoints = endPoints.filter(e => e.path.includes(path));
