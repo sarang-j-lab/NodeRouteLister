@@ -18,5 +18,5 @@ Options:
 ```
 
 <p >
-    <img src='C:\Users\sarang\Desktop\NodeRouteLister\utils.js - NodeRouteLister - Visual Studio Code 2025-02-22 17-09-02.mp4'>
+    <img src='./utils.js - NodeRouteLister - Visual Studio Code 2025-02-22 17-09-02.mp4'>
 </p>
