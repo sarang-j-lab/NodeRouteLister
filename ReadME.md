@@ -1,10 +1,11 @@
 # NodeRouteLister
 
-### npx node-lister --help
+## npx node-lister --help
 
-### npx node-lister <relative App File Path>
+## npx node-lister <relative App File Path>
 
 ## Usage
+<p> Provide an overview of all of the routes that are defined by your application from the command line.</p>
 
 ```
 Options:
@@ -15,3 +16,7 @@ Options:
   -r, --routing files show all routing files                            
       --help        Show help                                          [boolean]
 ```
+
+<p >
+    <img src='C:\Users\sarang\Desktop\NodeRouteLister\utils.js - NodeRouteLister - Visual Studio Code 2025-02-22 17-09-02.mp4'>
+</p>
